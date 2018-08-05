@@ -1,6 +1,6 @@
 
-http://www.aristocrattechnology.com/img/b11.gif
 
+![alt text](image.gif)
 
 E-Commerce Mobile App
 
