@@ -1,5 +1,5 @@
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKFu8RuWmasQJ6FRFF9Lu86_ZnGYG2fs09RACZi87uYj7mu_jIQ
+http://www.aristocrattechnology.com/img/b11.gif
 
 
 E-Commerce Mobile App
