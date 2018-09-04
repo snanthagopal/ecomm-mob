@@ -1,0 +1,32 @@
+{
+    "extends": [
+        "airbnb",
+        "prettier",
+        "prettier/react",
+        "prettier/flowtype"
+    ],
+    "globals": {
+        "queryTree": false
+    },
+    "plugins": [
+        "react",
+        "react-native",
+        "flowtype",
+        "prettier"
+    ],
+    "env": {
+        "es6": true,
+        "jest": true
+    },
+    "parser": "babel-eslint",
+    "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+                "trailingComma": "all",
+                "singleQuote": true,
+                "bracketSpacing": true,
+                "tabWidth": 2
+            }
+        ]
+    }
